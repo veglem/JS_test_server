@@ -1,9 +1,8 @@
 {
   "scripts": {
-    "debug": "DEBUG=* node server/index.js"
+    "start": "node server/index.js"
   },
   "dependencies": {
-    "debug": "^4.3.4",
     "ws": "^8.16.0"
   }
 }
